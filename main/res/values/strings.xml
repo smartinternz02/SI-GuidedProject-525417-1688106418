@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_bali">BaliActivity</string>
+    <string name="title_activity_paris">ParisActivity</string>
+    <string name="title_activity_singapore">SingaporeActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_booking">BookingActivity</string>
+    <string name="title_activity_credit_debit_card">CreditDebitCardActivity</string>
+    <string name="title_activity_netbanking">NetbankingActivity</string>
+    <string name="title_activity_netbank">NetbankActivity</string>
+    <string name="title_activity_flights">FlightsActivity</string>
+    <string name="title_activity_payment">PaymentActivity</string>
+    <string name="title_activity_upiactivity">UPIActivity</string>
+    <string name="title_activity_hotel">HotelActivity</string>
+    <string name="title_activity_city">CityActivity</string>
+</resources>
